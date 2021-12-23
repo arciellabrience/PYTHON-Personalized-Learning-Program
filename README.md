@@ -3,11 +3,11 @@ Programming Logic and Design Laboratory course using Python language in Jupyter 
 
 ## Introduction
 
-**An Operationalized Understanding of Personalized Learning
+**An Operationalized Understanding of Personalized Learning**
 
-**Key Design Considerations for Personalized Learning on the Web
+**Key Design Considerations for Personalized Learning on the Web**
 
-**Python for Teaching Introductory Programming: A Quantitative Evaluation
+**Python for Teaching Introductory Programming: A Quantitative Evaluation**
 
 ## Methods and Materials
 
