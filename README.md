@@ -37,7 +37,7 @@ Python IDLE, also known as the Python Integrated Development and Learning Enviro
 ## Discussion and Conclusion
 The program in its completion serves as a humble start for the creation of personalized learning systems and programs alike. It operates as it should and seems to serve as a prudent reference material in learning about Python programming. Modules are properly distributed and most were made for users with a “beginner” proficiency level to put a premium on introducing users to Python programming rather than helping already experienced users improve their skills. Although the system works well and as intended, its overall interface could be greatly improved upon, especially in terms of design and optimization. Tkinter overall served as an effective learning tool and an interesting module to further improve the members’ programming skills and problem-solving capabilities in the field of software design and creation. However, given that Tkinter was only introduced to the programmers recently and were not as adept in its functions and available features as one may suspect, the limits to the design of the program and its interface were greatly affected. This is hoped to be improved upon in the future, whether by the same programmers or different researchers aiming to create a similar system using the same functions and materials used in this one.
 
-### Authors and Contributions
+### Authors
 
 #### Arciella Brience C. Crisostomo [arciella_brience_crisostomo@dlsu.edu.ph]
 
